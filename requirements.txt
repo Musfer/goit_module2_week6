@@ -1,0 +1,2 @@
+aiopath==0.6.11
+aioshutil==1.2
