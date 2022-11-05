@@ -1,6 +1,6 @@
 # goit_module2_week6
 
-Set virtual environment using pipenv:
+Set virtual environment using `pipenv`:
 ```
 pipenv install
 pipenv shell
