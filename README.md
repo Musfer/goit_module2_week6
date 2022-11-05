@@ -6,7 +6,7 @@ pipenv install
 pipenv shell
 ```
 
-To sort "path_to_folder" run
+To sort "path_to_folder" run:
 ```
 python sort_folder.py -s "path_to_folder"
 ```
