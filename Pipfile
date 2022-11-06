@@ -4,8 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-aiopath = "0.6.11"
-aioshutil = "1.2"
+aiopath = "==0.6.11"
+aioshutil = "==1.2"
 
 [dev-packages]
 
